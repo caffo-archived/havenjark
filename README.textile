@@ -1,0 +1,3 @@
+Theme for Textmate. Install in ~/Library/Application Support/TextMate/Themes/
+
+!http://img.skitch.com/20091228-qd3p7i86ddgb3tiq2m8jx5psji.jpg!

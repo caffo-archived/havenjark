@@ -3,7 +3,8 @@ A low contrast, easy on eyes theme for textmate.
 To use, copy it to ~/Library/Application\ Support/TextMate/Themes/. You can also just download/clone this repository and double click the 
 theme file.
 
+Color palette inspiration: "Havenjark Farm":http://s3.amazonaws.com:80/caffo.baconfile.com/havenjark.jpg (a leveling zone from the MMORPG "Aion":http://aionradar.com/). Copyright (c) 2010 Rodrigo Franco, released under the MIT license
+
 !http://img.skitch.com/20091228-qd3p7i86ddgb3tiq2m8jx5psji.jpg!
 
-Color palette inspiration: "Havenjark Farm":http://s3.amazonaws.com:80/caffo.baconfile.com/havenjark.jpg (a leveling zone from the MMORPG "Aion":http://aionradar.com/)
-Copyright (c) 2010 Rodrigo Franco, released under the MIT license
+

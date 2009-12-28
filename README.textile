@@ -1,13 +1,12 @@
 A low contrast, easy on eyes theme for textmate. 
 
-To use, copy it to ~/Library/Application\ Support/TextMate/Themes/
-
-Copyright (c) 2010 Rodrigo Franco, released under the MIT license
-
+To use, copy it to ~/Library/Application\ Support/TextMate/Themes/. You can also just download/clone this repository and double click the 
+theme file.
 
 !http://img.skitch.com/20091228-qd3p7i86ddgb3tiq2m8jx5psji.jpg!
 
-Color palette inspiration: Havenjark Farm ("aion":http://aionradar.com/ zone)
+Color palette inspiration: Havenjark Farm (a leveling zone from the MMORPG "Aion":http://aionradar.com/)
 
 !http://s3.amazonaws.com:80/caffo.baconfile.com/havenjark.jpg!
 
+Copyright (c) 2010 Rodrigo Franco, released under the MIT license

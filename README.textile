@@ -1,6 +1,9 @@
 A low contrast, easy on eyes theme for textmate. Inspired in the "Havenjark Farm":http://www.tentonhammer.com/image/view/76321/preview color palette (a zone in the MMORPG game "Aion":http://aionradar.com/).
 
-Install in ~/Library/Application Support/TextMate/Themes/
+To use, copy it to ~/Library/Application\ Support/TextMate/Themes/
+
+Copyright (c) 2010 Rodrigo Franco, released under the MIT license
+
 
 !http://img.skitch.com/20091228-qd3p7i86ddgb3tiq2m8jx5psji.jpg!
 
